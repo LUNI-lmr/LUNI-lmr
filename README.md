@@ -28,4 +28,17 @@
   <a href="www.linkedin.com/in/lucas-m-rodrigues1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/LUNI-lmr/LUNI-lmr/output/dist/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/LUNI-lmr/LUNI-lmr/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/LUNI-lmr/LUNI-lmr/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/LUNI-lmr/LUNI-lmr/output/github-contribution-grid-snake.svg"
+  />
+</picture>
