@@ -5,9 +5,9 @@
 
 🟨 Learning: Python, SQL, AI, and statistics;
 
-⬛ Hobby: Creating projects to develop my skills;
+⬜ Hobby: Creating projects to develop my skills;
 
-⬜ My favorite aesthetic: Early 2000s anime.
+⬛ My favorite aesthetic: Early 2000s anime.
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LUNI-lmr&layout=compact&langs_count=4&theme=vision-friendly-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=LUNI-lmr&layout=compact&langs_count=4&theme=vision-friendly-dark)
 
